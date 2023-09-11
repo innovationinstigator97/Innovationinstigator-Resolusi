@@ -6,5 +6,6 @@ b. Dll
 -Video PHP
 -Laravel
 -Python
+- Menambahkan Golang
 - Struktur Data
 -Video C++
