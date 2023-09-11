@@ -1,5 +1,7 @@
 RENCANA KONTEN II
 
--Video HS
+-Video JS
+a. Belajar Framework
+b. Dll
 -Video PHP
 -Video C++
