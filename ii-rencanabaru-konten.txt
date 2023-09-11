@@ -1,0 +1,7 @@
+RENCANA KONTEN II
+
+-Video JS
+a. Belajar Framework
+b. Dll
+-Video PHP
+-Video C++
