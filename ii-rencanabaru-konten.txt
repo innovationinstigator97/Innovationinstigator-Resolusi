@@ -1,11 +1,3 @@
 RENCANA KONTEN II
+-Belajar Materi Backend
 
--Video JS
-a. Belajar Framework
-b. Dll
--Video PHP
--Laravel
--Python
-- Menambahkan Golang
-- Struktur Data
--Video C++
