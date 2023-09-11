@@ -4,5 +4,7 @@ RENCANA KONTEN II
 a. Belajar Framework
 b. Dll
 -Video PHP
+-Laravel
+-Python
 - Struktur Data
 -Video C++
